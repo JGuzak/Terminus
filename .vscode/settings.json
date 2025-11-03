@@ -1,0 +1,5 @@
+{
+    "markdownlint.customRules": [
+        "--disable=MD033"
+    ]
+}
